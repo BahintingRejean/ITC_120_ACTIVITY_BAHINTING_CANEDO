@@ -1,2 +1,2 @@
-# ITC_120_ACTIVITY_BAHINTING_CANEDO
-ITC 120 -Information Management
+# ITC_121_ACTIVITY_BAHINTING_CANEDO
+ITC 121 -Information Management
